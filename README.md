@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 [image2]: ./output_images/hog_spacial_features.png
 [image3]: ./output_images/scaled_sliding_window_search.png
 [image4]: ./output_images/bboxes_and_heat.png
-[video1]: ./traced_project_video.mp4
+[video1]: ./tracked_project_video.mp4
 
 
 ### Histogram of Oriented Gradients (HOG)
